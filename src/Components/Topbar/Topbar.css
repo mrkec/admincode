@@ -1,0 +1,13 @@
+.topContainer {
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: space-between;
+  /* gap: 0 80rem; */
+  /* justify-content: space-evenly; */
+  /* background-color: rgb(15, 14, 14); */
+  padding: 1rem;
+  margin-bottom: 0.4rem;
+  position: fixed;
+  width: 100%;
+  /* top: 0; */
+}

@@ -1,0 +1,10 @@
+.btnContainer {
+  /* width: 140px; */
+  /* margin: 1rem 0rem; */
+  /* padding: 0.4rem 0.2rem; */
+}
+input[type="submit"] {
+  background-color: hotpink;
+  border: none;
+  outline: none;
+}
